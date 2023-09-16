@@ -1,25 +1,29 @@
-# Welcome To Titan UMG Widget Extention  
+# Modular Movement Plugin Documentation
 
-## Components:
+Welcome to the documentation for the **Modular Movement** Unreal Engine 5 plugin! This plugin is designed to provide advanced vehicle simulation capabilities with a focus on **modularity**. Whether you're creating an arcade-style racer or a realistic vehicle simulation, Modular Movement has you covered.
 
-- [ChatComponent](https://irajsb.github.io/UMGPluginDocs/ChatSystem/ChatComponent)  
+## Key Features
 
-- [PingSystem](https://irajsb.github.io/UMGPluginDocs/ChatSystem/PingSystem)  
+- **Modularity:** Create discrete Engine Gearbox and Wheel setups that can be shared and reused among your vehicles, enhancing development efficiency.
+- **Multiple Tire Models:** Choose from a range of tire models, from arcade to race sim, for precise control over vehicle handling.
+- **Multi-Wheel Support:** Simulate vehicles with multiple wheels, such as cars, trucks, and more.
+- **Dynamic Parameter Updates:** Modify vehicle parameters, including wheel properties, at runtime for on-the-fly adjustments.
+- **Tank Support:** Implement tank-like vehicles with independent control over tracks or wheels.
+- **Basic AI Support:** Easily integrate AI controllers for NPC vehicles and AI-driven behaviors.
+- **SI Units:** Utilize SI units for suspension damping and force, ensuring consistency and precision.
+- **Wheel Attachment:** Support for attaching wheels to various parts, ideal for trailers or unique vehicle configurations.
+- **Advanced Debugging:** Comprehensive debugging tools and graphical representations to fine-tune your vehicle simulations.
 
-- [MapSystem](https://irajsb.github.io/UMGPluginDocs/MapSystem/MapSystem)
+## Modules
+Each vehicle needs a modular movement component and your desired amount of wheel components.  
 
-- [WindowSystem](https://irajsb.github.io/UMGPluginDocs/WindowSystem/WindowSystem)
+To help you navigate through the documentation, we've organized it into several modules:
 
-- [KeyPrompts](https://irajsb.github.io/UMGPluginDocs/Misc/KeyPrompts)
+1. [Vehicle Data Setup](./Modules/VehicleDataSetup.md): Learn how to configure and set up the core data for your vehicles.
+2. [Wheel Setup](./Modules/WheelData.md): Dive into the details of setting up wheels for your vehicles, including tire models.
+3. [Tire Models](./Modules/TireModels.md): Explore the available tire models and how to choose the right one for your project.
+4. [Animation Guide](#animation-guide): Understand how to create animations and interactions for your vehicles.
 
-- [Touch](https://irajsb.github.io/UMGPluginDocs/Touch/Touch)
+Each module provides in-depth information and step-by-step instructions to make the most of the Modular Movement plugin. Click on the links above to access the respective pages.
 
-- [RadialMenu](https://irajsb.github.io/UMGPluginDocs/Misc/RadialMenu)
-
-- [Graphs](https://irajsb.github.io/UMGPluginDocs/Misc/Graph)
-
-- [VirtualCursor](https://irajsb.github.io/UMGPluginDocs/Misc/VirtualCursor)
-
-- [FontIcons](https://irajsb.github.io/UMGPluginDocs/Misc/FontIcons)
-
-- [Placeholder Settings widget](https://irajsb.github.io/UMGPluginDocs/Misc/Settings)
+Happy developing, and may your virtual vehicles roam the digital world with style and realism!
