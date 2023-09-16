@@ -22,8 +22,13 @@ To help you navigate through the documentation, we've organized it into several 
 1. [Vehicle Data Setup](./Modules/VehicleDataSetup.md): Learn how to configure and set up the core data for your vehicles.
 2. [Wheel Setup](./Modules/WheelData.md): Dive into the details of setting up wheels for your vehicles, including tire models.
 3. [Tire Models](./Modules/TireModels.md): Explore the available tire models and how to choose the right one for your project.
-4. [Animation Guide](#animation-guide): Understand how to create animations and interactions for your vehicles.
+4. [Animation Guide](./Modules/AnimatioGuide.md): Understand how to create animations and interactions for your vehicles.
 
 Each module provides in-depth information and step-by-step instructions to make the most of the Modular Movement plugin. Click on the links above to access the respective pages.
 
 Happy developing, and may your virtual vehicles roam the digital world with style and realism!
+
+
+## Debugging
+
+You can debug your vehicle and its tuning by attaching a Debbugger component. This will spawn a widget on top of your screen.
