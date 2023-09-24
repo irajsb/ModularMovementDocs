@@ -5,7 +5,7 @@ Below is two examples of general use cases for Modular Movement Plugin. However 
 
 ``` Note: Realistic tire models require physics substepping option to be enabled in project settings to work accurately.```
 
-  
+ strongly recommend that you download our sample project, available at https://github.com/irajsb/ModularVehicles, to understand what is possible with this plugin.
   
 
 ## Skeletal Mesh vehicle Setup
