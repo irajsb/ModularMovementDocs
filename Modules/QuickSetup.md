@@ -31,7 +31,6 @@ Below is two examples of general use cases for Modular Movement Plugin. However 
 
   
 
-## Static Mesh vehicle Setup
 
   
 
