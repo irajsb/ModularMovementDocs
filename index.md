@@ -32,4 +32,4 @@ Happy developing, and may your virtual vehicles roam the digital world with styl
 
 ## Debugging
 
-You can debug your vehicle and its tuning by attaching a Debbugger component. This will spawn a widget on top of your screen.
+You can debug your vehicle and its tuning by attaching a Debugger component. This will spawn a widget on top of your screen.
