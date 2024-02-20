@@ -30,6 +30,8 @@ Each module provides in-depth information and step-by-step instructions to make 
 Happy developing, and may your virtual vehicles roam the digital world with style and realism!
 
 
+## Tank specific 
+5. [Tank Guide](./Modules/Tank.md): Understand how to create Tanks  
 ## Debugging
 
 You can debug your vehicle and its tuning by attaching a Debugger component. This will spawn a widget on top of your screen.
