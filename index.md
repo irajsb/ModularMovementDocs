@@ -24,6 +24,7 @@ To help you navigate through the documentation, we've organized it into several 
 3. [Wheel Setup](./Modules/WheelData.md): Dive into the details of setting up wheels for your vehicles, including tire models.
 4. [Tire Models](./Modules/TireModels.md): Explore the available tire models and how to choose the right one for your project.
 5. [Animation Guide](./Modules/AnimatioGuide.md): Understand how to create animations and interactions for your vehicles.
+5. [Differential Guide](./Modules/Differential.md): Understand how to Use Differentials.
 
 Each module provides in-depth information and step-by-step instructions to make the most of the Modular Movement plugin. Click on the links above to access the respective pages.
 
