@@ -7,6 +7,11 @@ Below is two examples of general use cases for Modular Movement Plugin. However 
 
  strongly recommend that you download our sample project, available at https://github.com/irajsb/ModularVehicles, to understand what is possible with this plugin.
   
+## Input
+Modular movement takes -1 and 1 (for brake and throttle ) which can be fed to SetThrottle input.  
+For steering -1 is left and +1 is right.
+Set brake input is meant for specific use cases and in most cases you don't need to use it.
+If you want any custom input logic you can use input preprocessor blueprint to override default logic.
 
 ## Skeletal Mesh vehicle Setup
 
