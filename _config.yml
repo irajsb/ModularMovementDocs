@@ -1,6 +1,6 @@
 title: Welcome to Docs my friend!
 description: Documention for Vehicle Plugin
 google_analytics:
-theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 color_scheme: light
 search_enabled: true
